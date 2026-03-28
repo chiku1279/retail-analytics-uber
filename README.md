@@ -44,6 +44,7 @@ This page provides a high-level summary of the Uber dataset.
 To quickly understand overall performance and identify general trends.
 
 ---
+![image alt](https://github.com/chiku1279/retail-analytics-uber/blob/f9c1cf7388757e36ddbefec79e02798a1e03e532/Dashboard%20Visual/uber_page_1.jpg)
 
 ### 2️⃣ Time Analysis
 
@@ -65,6 +66,7 @@ This page focuses on when and where demand is highest.
 To identify demand patterns and optimize resource allocation.
 
 ---
+![image alt](https://github.com/chiku1279/retail-analytics-uber/blob/f9c1cf7388757e36ddbefec79e02798a1e03e532/Dashboard%20Visual/uber_page_2.jpg)
 
 ### 3️⃣ Performance & Insights
 
@@ -86,6 +88,7 @@ This page dives deeper into operational and financial performance.
 To evaluate business efficiency and uncover actionable insights.
 
 ---
+![image alt](https://github.com/chiku1279/retail-analytics-uber/blob/f9c1cf7388757e36ddbefec79e02798a1e03e532/Dashboard%20Visual/uber_page_3.jpg)
 
 ## 🛠️ Tools & Technologies
 
@@ -119,12 +122,3 @@ To evaluate business efficiency and uncover actionable insights.
 
 ---
 
-## 👤 Author
-
-**[Your Name]**
-
----
-
-## 📄 License
-
-This project is for educational and analytical purposes only.
